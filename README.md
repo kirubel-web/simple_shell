@@ -1,0 +1,1 @@
+This repo contains simple shell project written by c programming language.
